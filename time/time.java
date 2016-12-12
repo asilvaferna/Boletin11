@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplo_this;
+package time;
 import java.time.Duration;
 import java.time.Instant;
 import javax.swing.JOptionPane;
@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  *
  * @author Adri
  */
-public class Ejemplo_This {
+public class time {
 
     /**
      * @param args the command line arguments
